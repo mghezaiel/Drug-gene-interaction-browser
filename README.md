@@ -18,7 +18,7 @@ Interacting genes can be filtered by interaction type, interaction score, and li
 
 ## Tool 
 
-## Start the docker daemon 
+### Start the docker daemon 
 
 On linux: 
 	```
@@ -38,11 +38,11 @@ On windows:
 	restart-service *docker*
 	```
 
-## Build the image 
+### Build the image 
 
 ```docker build -t dgib -f Dockerfile .```
 
-## Run the app 
+### Run the app 
 ```docker run -p 8501:8501 dgib```
 
 
