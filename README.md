@@ -35,9 +35,9 @@ On windows:
 
 ## Build the image 
 
-docker build -t dgib -f Dockerfile .
+```docker build -t dgib -f Dockerfile .```
 
 ## Run the app 
-docker run -p 8501:8501 dgib
+```docker run -p 8501:8501 dgib```
 
 
