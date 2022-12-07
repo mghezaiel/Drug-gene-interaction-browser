@@ -21,15 +21,17 @@ On linux:
 	```
 	or
 	```
-	sudo service docker start''' 
+	sudo service docker start
 	```
 	
-On mac: 
+On mac: ```
 	open -a Docker 
-
+	```
+	
 On windows:
+	```
 	restart-service *docker*
-
+	```
 
 ## Build the image 
 
