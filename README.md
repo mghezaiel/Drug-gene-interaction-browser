@@ -8,9 +8,9 @@ The tool uses the Drug gene interaction database (DGIDB) to identify genes inter
 Interacting genes can be filtered by interaction type, interaction score, and linked to protein/protein interactions from databases such as MINT. 
 
 ## Utility
-- Identification of potential protein targets 
-- Evaluation of iatrogenic effect
-- Identification of synergistic drug combination 
+- Identification of potential target proteins
+- Evaluation of iatrogenic effects
+- Identification of synergistic drug combinations 
 - Drug repurposing
 
 ## Databases
@@ -46,4 +46,5 @@ On windows:
 ### Run the app 
 ```docker run -p 8501:8501 dgib```
 
-
+### Run without docker 
+In /classes : ```streamlit run main.py```
