@@ -1,7 +1,7 @@
 ![alt text](https://github.com/mghezaiel/Drug-gene-interaction-browser/blob/master/5AF7A9B2-4183-4BBE-8454-D6A9A81EA79F_4_5005_c.jpeg)
 # Drug gene interaction browser 
 
-A web application to browse drug gene interactions, link genes to known protein/protein interactions and query protein annotations. 
+A web application to browse drug gene interactions, link genes to known protein/protein interactions and query uniprot annotations. 
 
 The tool uses the Drug gene interaction database (DGIDB) to identify genes interacting with a target drug. 
 
