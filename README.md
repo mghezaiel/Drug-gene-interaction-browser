@@ -7,9 +7,9 @@ The tool uses the Drug gene interaction database (DGIDB) to identify genes inter
 
 Interacting genes can be filtered by interaction type, interaction score, and linked to protein/protein interactions from databases such as MINT. 
 
-## What it can be used for
+## Utility
 - Identification of potential protein targets 
-- Identification of iatrogenesis
+- Evaluation of iatrogenic effect
 - Identification of synergistic drug combination 
 - Drug repurposing
 
