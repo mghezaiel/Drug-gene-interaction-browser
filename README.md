@@ -10,7 +10,7 @@ Interacting genes can be filtered by interaction type, interaction score, and li
 ## What it can be used for
 - Identification of potential protein targets 
 - Identification of iatrogenesis
-- Identification of Synergistic drug combination 
+- Identification of synergistic drug combination 
 
 ## Databases
 - DGIDB 
