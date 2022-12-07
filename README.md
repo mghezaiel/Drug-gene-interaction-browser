@@ -7,13 +7,15 @@ The tool uses the Drug gene interaction database (DGIDB) to identify genes inter
 
 Interacting genes can be filtered by interaction type, interaction score, and linked to protein/protein interactions from databases such as MINT. 
 
-It also allows to query uniprot annotations for the filtered gene sets. 
-
-## Utility
+## What it can be used for
 - Identification of potential protein targets 
-- Iatrogenesis
-- Synergistic drug combination 
+- Identification of iatrogenesis
+- Identification of Synergistic drug combination 
 
+## Databases
+- DGIDB 
+- MINT 
+- 
 # RUN 
 
 ## Start the docker daemon 
