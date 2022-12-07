@@ -4,7 +4,9 @@
 A web application to browse drug gene interactions, link genes to known protein/protein interactions and query protein annotations. 
 
 The tool uses the Drug gene interaction database (DGIDB) to identify genes interacting with a target drug. 
+
 Interacting genes can be filtered by interaction type, interaction score, and linked to protein/protein interactions from databases such as MINT. 
+
 It also allows to query uniprot annotations for the filtered gene sets. 
 
 ## Utility
