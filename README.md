@@ -7,7 +7,7 @@ Interacting genes can be filtered by interaction type, interaction score, and li
 It also allows to query uniprot annotations for the filtered gene sets. 
 
 ## Utility
-- Identification of potential targets 
+- Identification of potential protein targets 
 - Iatrogenesis
 - Synergistic drug combination 
 
