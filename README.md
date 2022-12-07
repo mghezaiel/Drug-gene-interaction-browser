@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mghezaiel/Drug-gene-interaction-browser/blob/master/A86D2AC2-5A01-4410-8C89-11DEB32B5B71.jpeg)
 # Drug gene interaction browser 
 
 A web application to browse drug gene interactions, link genes to known protein/protein interactions and inspect the annotations. 
