@@ -16,9 +16,9 @@ It also allows to query uniprot annotations for the filtered gene sets.
 ## Start the docker daemon 
 
 On linux: 
-	‘‘‘sudo systemctl docker start‘‘‘
+	'''sudo systemctl docker start'''
 	or
-	‘‘‘sudo service docker start‘‘‘ 
+	'''sudo service docker start''' 
 
 On mac: 
 	open -a Docker 
