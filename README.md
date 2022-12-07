@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 # Drug gene interaction browser 
 
 A web application to browse drug gene interactions, link genes to known protein/protein interactions and inspect the annotations. 
