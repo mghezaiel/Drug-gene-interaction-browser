@@ -1,4 +1,4 @@
-![alt text](https://github.com/mghezaiel/Drug-gene-interaction-browser/blob/master/5AF7A9B2-4183-4BBE-8454-D6A9A81EA79F_4_5005_c.jpeg)
+![alt text](https://github.com/mghezaiel/Drug-gene-interaction-browser/blob/master/Capture%20d’écran%202022-12-10%20à%2018.36.33.png)
 # Drug gene interaction browser 
 
 A web application to browse drug gene interactions, link genes to known protein/protein interactions and query uniprot annotations. 
