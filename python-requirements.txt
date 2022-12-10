@@ -1,0 +1,13 @@
+IPython
+ipywidgets
+Pillow
+rdkit
+streamlit==1.15.2
+pandas
+numpy 
+tqdm
+networkx
+chembl_webresource_client
+matplotlib
+plotly
+scipy
